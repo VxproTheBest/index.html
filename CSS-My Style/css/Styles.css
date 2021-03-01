@@ -2,7 +2,7 @@ body {
 margin: 0 ;
 text-align: center;
 font-family: cursive, Sacramento,sans-serif;
-
+background-color: #F8F8FF;
 }
 
 h1 {
@@ -11,12 +11,14 @@ h1 {
   font-family:Sacramento,cursive ;
   font-size: 5.625rem ;
   font-weight: bold;
+    color: #66BFBF ;
 }
 
 h2  {
   font-family: Montez,Montserrat;
   font-size: 2.5rem ;
   font-weight: bold;
+  color: #66BFBF ;
 }
 
 h3 {
@@ -69,4 +71,12 @@ bottom:800px;
 .Vineesh {
   position: absolute;
   text-align: center;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 5%;
 }
